@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application Sections</Name>
+    <Assembly>Sections.dll</Assembly>
+    <FullClassName>Sections.App</FullClassName>
+    <ClientId>3053d5de-ae95-4f92-ba65-04d4a6b675a7</ClientId>
+    <VendorId>IF</VendorId>
+    <VendorDescription>Mike Turpin</VendorDescription>
+  </AddIn>
+</RevitAddIns>
